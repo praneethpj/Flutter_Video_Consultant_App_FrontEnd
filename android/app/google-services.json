@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41288966978",
+    "project_id": "timetalk2nd",
+    "storage_bucket": "timetalk2nd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41288966978:android:cbd8c32ab7a316423d9edb",
+        "android_client_info": {
+          "package_name": "com.praneethpj.timetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41288966978-87vlo2t85ee6cdr096faf1vmv3gk5jvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praneethpj.timetalk",
+            "certificate_hash": "9bd7ae4b9f889ee4fb3b409d6a90e56eded2cacc"
+          }
+        },
+        {
+          "client_id": "41288966978-8ck9792efpmsk8hhf56qd40icf36bfbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsx2nW1m_GwrFSwn1bX4YI-XDpQDFEzMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41288966978-8ck9792efpmsk8hhf56qd40icf36bfbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
