@@ -21,7 +21,9 @@ Welcome to the TimeTotalk repository! TimeTotalk is a video call-based consultan
 # Getting Started
 
 Configure the Agora settings -> constants/settings.dart
+
 Link the backend server -> constants/ApiConstants.dart
+
 And also configure a Paypal Sandbox for payment
 
 To contribute to this project, follow the steps below:
