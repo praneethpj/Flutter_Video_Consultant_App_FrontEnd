@@ -1,6 +1,6 @@
-# Timetalk - Flutter video call-based consultant app
+# TimeTotalk - Flutter video call-based consultant app
 
-Welcome to the Timetalk repository! Timetalk is a video call-based consultant app where users can book consultants. Consultants can schedule appointments on suitable dates. Consultants can earn money from each video call. The app is built using Flutter technologies, including Agora, Websocket, GetX, and Firebase. The backend is developed using Node.js.
+Welcome to the TimeTotalk repository! TimeTotalk is a video call-based consultant app where users can book consultants. Consultants can schedule appointments on suitable dates. Consultants can earn money from each video call. The app is built using Flutter technologies, including Agora, Websocket, GetX, and Firebase. The backend is developed using Node.js.
 
  [Please find the Medium Article ](https://medium.com/@pubudupraneeth/time-to-talk-v-0-2-flutter-video-call-schedule-app-intro-3e316c48635f)
 
