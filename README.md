@@ -18,7 +18,11 @@ Welcome to the Timetalk repository! Timetalk is a video call-based consultant ap
 ![Screenshot](screenshots/ss12.png)
 ![Screenshot](screenshots/ss13.png)
 
-## Getting Started
+# Getting Started
+
+Configure the Agora settings -> constants/settings.dart
+Link the backend server -> constants/ApiConstants.dart
+And also configure a Paypal Sandbox for payment
 
 To contribute to this project, follow the steps below:
 
@@ -30,12 +34,6 @@ To contribute to this project, follow the steps below:
 6. Open a pull request from your forked repository to the `master` branch of this repository.
 7. Wait for the maintainers to review and merge your pull request.
 8. Congratulations! You've contributed to this project.
-
-## Configurations
-
-Configure the Agora settings -> constants/settings.dart
-Link the backend server -> constants/ApiConstants.dart
-And also configure a Paypal Sandbox for payment
 
  
 
