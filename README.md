@@ -45,11 +45,6 @@ The Node.js backend for this project can be found at [Node JS Backend](https://g
 
 If you encounter any bugs or have ideas for new features, please open an issue in the GitHub repository. Be sure to provide detailed steps to reproduce the issue or a clear explanation of the feature request.
 
-## Community and Feedback
-
-Join our community to stay up-to-date on project developments, ask questions, and provide feedback. We appreciate your engagement and support!
-
-- [Link to Community/Discord/Forum]
 
 ## License
 
