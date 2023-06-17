@@ -2,7 +2,7 @@
 
 Welcome to the Timetalk repository! Timetalk is a video call-based consultant app where users can book consultants. Consultants can schedule appointments on suitable dates. Consultants can earn money from each video call. The app is built using Flutter technologies, including Agora, Websocket, GetX, and Firebase. The backend is developed using Node.js.
 
- [Medium ](https://medium.com/@pubudupraneeth/time-to-talk-v-0-2-flutter-video-call-schedule-app-intro-3e316c48635f).
+ [Please Find Medium Article ](https://medium.com/@pubudupraneeth/time-to-talk-v-0-2-flutter-video-call-schedule-app-intro-3e316c48635f)
 
 ![Screenshot](screenshots/ss1.png)
 ![Screenshot](screenshots/ss2.png)
@@ -27,13 +27,17 @@ To contribute to this project, follow the steps below:
 3. Create a new branch for your contribution.
 4. Make the necessary changes and commit them.
 5. Push the changes to your forked repository.
-6. Open a pull request from your forked repository to the `main` branch of this repository.
+6. Open a pull request from your forked repository to the `master` branch of this repository.
 7. Wait for the maintainers to review and merge your pull request.
 8. Congratulations! You've contributed to this project.
 
-## Code Style
+## Configurations
 
-Please ensure that your code adheres to the project's code style guidelines. This includes following proper indentation, variable naming conventions, and coding best practices.
+Configure the Agora settings -> constants/settings.dart
+Link the backend server -> constants/ApiConstants.dart
+And also configure a Paypal Sandbox for payment
+
+ 
 
 ## Backend Repository
 
